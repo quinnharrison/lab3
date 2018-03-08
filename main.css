@@ -1,0 +1,32 @@
+body{
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1{
+	font-size: 32px;
+	font-family: Palatino, 'Palatino Linotype', serif;
+	color: blue;
+}
+
+
+.background{
+	background-image: url("https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/NASA-space-science-1185920.jpg");
+	background-size: cover;
+	font-size: 60px;
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	padding: 300px;
+	margin: 40px;
+	text-shadow: 
+	  -1px -1px 0 #000,
+	   1px -1px 0 #000,
+	  -1px  1px 0 #000,
+	  -1px -1px 0 #000;
+}
+
+.background p{
+	font-size: 24px;
+}
